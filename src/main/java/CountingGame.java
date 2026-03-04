@@ -60,7 +60,7 @@ public class CountingGame {
             }
         }
 
-        // This needs to be outside the while loop?
+        // This needs to be outside the for loop?
         scanner.close();
     }
 }
